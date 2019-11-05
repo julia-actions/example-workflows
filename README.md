@@ -1,4 +1,4 @@
-# Julia Workflow Examples
+# Julia Example Workflows
 
 A collection of example workflows for GitHub Actions that are used for Julia projects and packages.
 
