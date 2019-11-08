@@ -8,6 +8,7 @@ A collection of example workflows for GitHub Actions that are used for Julia pro
 | [Registry Automerge Bot](https://github.com/JuliaRegistries/RegistryCI.jl) | Provides continuous integration (CI) tools, including automated testing and automatic merging (automerge) of pull requests |  [automerge.yml](https://github.com/JuliaRegistries/General/blob/master/.github/workflows/automerge.yml)
 | [CompatHelper Bot](https://github.com/bcbi/CompatHelper.jl) | Automatically update the [compat] entries for your Julia package's dependencies | [CompatHelper.yml](https://github.com/bcbi/CompatHelper.jl/blob/master/.github/workflows/CompatHelper.yml)
 | Documenter deployment | Deploys docs built by Documenter.jl | [docs.yml](https://github.com/fredrikekre/Literate.jl/blob/master/.github/workflows/docs.yml)
+| Update Manifest.toml | Run `Pkg.update` on `Manifest.toml` files checked in to the repository | [pkg-update.yml](https://github.com/tkf/Kaleido.jl/blob/master/.github/workflows/pkg-update.yml)
 
 ## Contributing
 
