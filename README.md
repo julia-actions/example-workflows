@@ -10,6 +10,12 @@ A collection of example workflows for GitHub Actions that are used for Julia pro
 | Documenter deployment | Deploys docs built by Documenter.jl | [docs.yml](https://github.com/fredrikekre/Literate.jl/blob/master/.github/workflows/docs.yml)
 | Update Manifest.toml | Run `Pkg.update` on `Manifest.toml` files checked in to the repository | [pkg-update.yml](https://github.com/tkf/Kaleido.jl/blob/master/.github/workflows/pkg-update.yml)
 
+## Using a workflow
+
+You can find general information about GitHub Actions and workflows in the [GitHub Docs](https://help.github.com/en/actions/automating-your-workflow-with-github-actions)
+
+If you want to get started as quickly as possible, check out [CompatHelper.jl's README](https://github.com/bcbi/CompatHelper.jl#installation) which contains information on how to add workflows. It's applicable to other workflows as well, though some may require additional configuration.
+
 ## Contributing
 
 If you have built an action or workflow to be used with Julia projects, please submit a PR and add your examples!
