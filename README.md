@@ -12,7 +12,7 @@ A collection of example workflows for GitHub Actions that are used for Julia pro
 
 ## Using a workflow
 
-You can find general information about GitHub Actions and workflows in the [GitHub Docs](https://help.github.com/en/actions/automating-your-workflow-with-github-actions)
+You can find general information about GitHub Actions and workflows in the [GitHub Docs](https://help.github.com/en/actions/automating-your-workflow-with-github-actions) and on [this blogpost](https://medium.com/@soumitra.shewale.dev/github-actions-an-introduction-to-ci-819040f2a087).
 
 If you want to get started as quickly as possible, check out [CompatHelper.jl's README](https://github.com/bcbi/CompatHelper.jl#installation) which contains information on how to add workflows. It's applicable to other workflows as well, though some may require additional configuration.
 
