@@ -2,6 +2,8 @@
 
 A collection of example workflows for GitHub Actions that are used for Julia projects and packages.
 
+**Note that these are no longer being updated. Please refer to the bot's and package's documentation for examples. You can find a "complete" CI example in [PkgTemplates.jl](https://github.com/invenia/PkgTemplates.jl)**
+
 | Name | Description | Workflow file |
 | --- | --- | --- |
 | Package CI | Run common package CI tasks, including tests and coverage reports | [ci.yml](https://github.com/invenia/PkgTemplates.jl/blob/master/test/fixtures/DocumenterGitHubActions/.github/workflows/ci.yml) |
